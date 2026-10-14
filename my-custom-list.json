@@ -1,0 +1,29 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_suffix": [
+	"cursor.com",
+	"cursor-cdn.com",
+	"cursorapi.com",
+	"cursorvm.com",
+	".cursorvm.com",
+	"todesktop.com",
+	"accounts.spacex.ai",
+	"spacex.ai",
+	"accounts.x.ai",
+	"x.ai",
+	"auth.x.ai",
+	"grok.com",
+	"grok.com",
+	"grokusercontent.com",
+	"grokipedia.com",
+	"api2.cursor.sh",
+	"api3.cursor.sh",
+	"api4.cursor.sh",
+	"repo42.cursor.sh",
+	"authenticator.cursor.sh"
+      ]
+    }
+  ]
+}
